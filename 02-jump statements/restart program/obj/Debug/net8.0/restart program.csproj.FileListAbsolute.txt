@@ -1,0 +1,14 @@
+D:\C sharp\restart program\restart program\bin\Debug\net8.0\restart program.exe
+D:\C sharp\restart program\restart program\bin\Debug\net8.0\restart program.deps.json
+D:\C sharp\restart program\restart program\bin\Debug\net8.0\restart program.runtimeconfig.json
+D:\C sharp\restart program\restart program\bin\Debug\net8.0\restart program.dll
+D:\C sharp\restart program\restart program\bin\Debug\net8.0\restart program.pdb
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\restart program.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\restart program.AssemblyInfoInputs.cache
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\restart program.AssemblyInfo.cs
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\restart program.csproj.CoreCompileInputs.cache
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\restart program.dll
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\refint\restart program.dll
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\restart program.pdb
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\restart program.genruntimeconfig.cache
+D:\C sharp\restart program\restart program\obj\Debug\net8.0\ref\restart program.dll
