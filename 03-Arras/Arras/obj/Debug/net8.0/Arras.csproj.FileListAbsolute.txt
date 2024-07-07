@@ -1,0 +1,14 @@
+D:\C sharp\Arras\Arras\bin\Debug\net8.0\Arras.exe
+D:\C sharp\Arras\Arras\bin\Debug\net8.0\Arras.deps.json
+D:\C sharp\Arras\Arras\bin\Debug\net8.0\Arras.runtimeconfig.json
+D:\C sharp\Arras\Arras\bin\Debug\net8.0\Arras.dll
+D:\C sharp\Arras\Arras\bin\Debug\net8.0\Arras.pdb
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\Arras.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\Arras.AssemblyInfoInputs.cache
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\Arras.AssemblyInfo.cs
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\Arras.csproj.CoreCompileInputs.cache
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\Arras.dll
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\refint\Arras.dll
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\Arras.pdb
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\Arras.genruntimeconfig.cache
+D:\C sharp\Arras\Arras\obj\Debug\net8.0\ref\Arras.dll
