@@ -1,0 +1,14 @@
+D:\C sharp\Types of Arrays\Types of Arrays\bin\Debug\net8.0\Types of Arrays.exe
+D:\C sharp\Types of Arrays\Types of Arrays\bin\Debug\net8.0\Types of Arrays.deps.json
+D:\C sharp\Types of Arrays\Types of Arrays\bin\Debug\net8.0\Types of Arrays.runtimeconfig.json
+D:\C sharp\Types of Arrays\Types of Arrays\bin\Debug\net8.0\Types of Arrays.dll
+D:\C sharp\Types of Arrays\Types of Arrays\bin\Debug\net8.0\Types of Arrays.pdb
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\Types of Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\Types of Arrays.AssemblyInfoInputs.cache
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\Types of Arrays.AssemblyInfo.cs
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\Types of Arrays.csproj.CoreCompileInputs.cache
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\Types of Arrays.dll
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\refint\Types of Arrays.dll
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\Types of Arrays.pdb
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\Types of Arrays.genruntimeconfig.cache
+D:\C sharp\Types of Arrays\Types of Arrays\obj\Debug\net8.0\ref\Types of Arrays.dll
