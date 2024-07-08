@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Intenship\\practice_Csharp\\04-Types of Arrays\\Types of Arrays\\Types of Arrays.csproj",
+      "projectUniqueName": "D:\\C sharp\\Types of Arrays\\Types of Arrays\\Types of Arrays.csproj",
       "projectName": "Types of Arrays",
-      "projectPath": "D:\\Intenship\\practice_Csharp\\04-Types of Arrays\\Types of Arrays\\Types of Arrays.csproj",
+      "projectPath": "D:\\C sharp\\Types of Arrays\\Types of Arrays\\Types of Arrays.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Intenship\\practice_Csharp\\04-Types of Arrays\\Types of Arrays\\obj\\",
+      "outputPath": "D:\\C sharp\\Types of Arrays\\Types of Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

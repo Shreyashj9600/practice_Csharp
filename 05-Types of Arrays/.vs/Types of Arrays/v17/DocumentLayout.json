@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Intenship\\practice_Csharp\\04-Types of Arrays\\",
+  "WorkspaceRootPath": "D:\\C sharp\\Types of Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13C179E5-DD00-4981-8B71-F0A3852B75F7}|Types of Arrays\\Types of Arrays.csproj|d:\\intenship\\practice_csharp\\04-types of arrays\\types of arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13C179E5-DD00-4981-8B71-F0A3852B75F7}|Types of Arrays\\Types of Arrays.csproj|d:\\c sharp\\types of arrays\\types of arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C179E5-DD00-4981-8B71-F0A3852B75F7}|Types of Arrays\\Types of Arrays.csproj|solutionrelative:types of arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Intenship\\practice_Csharp\\04-Types of Arrays\\Types of Arrays\\Program.cs",
+              "DocumentMoniker": "D:\\C sharp\\Types of Arrays\\Types of Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Types of Arrays\\Program.cs",
-              "ToolTip": "D:\\Intenship\\practice_Csharp\\04-Types of Arrays\\Types of Arrays\\Program.cs",
-              "RelativeToolTip": "Types of Arrays\\Program.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAgwCEAAAAsAAAA",
+              "ToolTip": "D:\\C sharp\\Types of Arrays\\Types of Arrays\\Program.cs*",
+              "RelativeToolTip": "Types of Arrays\\Program.cs*",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T19:30:39.098Z",
               "EditorCaption": ""
