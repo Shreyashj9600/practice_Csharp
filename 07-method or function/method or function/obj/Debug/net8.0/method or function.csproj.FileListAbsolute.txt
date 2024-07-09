@@ -1,0 +1,14 @@
+D:\C sharp\method or function\method or function\bin\Debug\net8.0\method or function.exe
+D:\C sharp\method or function\method or function\bin\Debug\net8.0\method or function.deps.json
+D:\C sharp\method or function\method or function\bin\Debug\net8.0\method or function.runtimeconfig.json
+D:\C sharp\method or function\method or function\bin\Debug\net8.0\method or function.dll
+D:\C sharp\method or function\method or function\bin\Debug\net8.0\method or function.pdb
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\method or function.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\method or function.AssemblyInfoInputs.cache
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\method or function.AssemblyInfo.cs
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\method or function.csproj.CoreCompileInputs.cache
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\method or function.dll
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\refint\method or function.dll
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\method or function.pdb
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\method or function.genruntimeconfig.cache
+D:\C sharp\method or function\method or function\obj\Debug\net8.0\ref\method or function.dll
