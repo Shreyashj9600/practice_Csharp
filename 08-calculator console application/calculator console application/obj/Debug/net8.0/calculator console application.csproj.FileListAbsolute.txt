@@ -1,0 +1,14 @@
+D:\C sharp\calculator console application\calculator console application\bin\Debug\net8.0\calculator console application.exe
+D:\C sharp\calculator console application\calculator console application\bin\Debug\net8.0\calculator console application.deps.json
+D:\C sharp\calculator console application\calculator console application\bin\Debug\net8.0\calculator console application.runtimeconfig.json
+D:\C sharp\calculator console application\calculator console application\bin\Debug\net8.0\calculator console application.dll
+D:\C sharp\calculator console application\calculator console application\bin\Debug\net8.0\calculator console application.pdb
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\calculator console application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\calculator console application.AssemblyInfoInputs.cache
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\calculator console application.AssemblyInfo.cs
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\calculator console application.csproj.CoreCompileInputs.cache
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\calculator console application.dll
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\refint\calculator console application.dll
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\calculator console application.pdb
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\calculator console application.genruntimeconfig.cache
+D:\C sharp\calculator console application\calculator console application\obj\Debug\net8.0\ref\calculator console application.dll
