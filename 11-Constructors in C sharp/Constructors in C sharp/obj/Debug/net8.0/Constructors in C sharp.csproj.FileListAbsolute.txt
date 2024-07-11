@@ -1,0 +1,14 @@
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\bin\Debug\net8.0\Constructors in C sharp.exe
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\bin\Debug\net8.0\Constructors in C sharp.deps.json
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\bin\Debug\net8.0\Constructors in C sharp.runtimeconfig.json
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\bin\Debug\net8.0\Constructors in C sharp.dll
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\bin\Debug\net8.0\Constructors in C sharp.pdb
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\Constructors in C sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\Constructors in C sharp.AssemblyInfoInputs.cache
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\Constructors in C sharp.AssemblyInfo.cs
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\Constructors in C sharp.csproj.CoreCompileInputs.cache
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\Constructors in C sharp.dll
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\refint\Constructors in C sharp.dll
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\Constructors in C sharp.pdb
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\Constructors in C sharp.genruntimeconfig.cache
+D:\C sharp\Constructors in C sharp\Constructors in C sharp\obj\Debug\net8.0\ref\Constructors in C sharp.dll
