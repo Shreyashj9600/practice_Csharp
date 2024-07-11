@@ -1,0 +1,14 @@
+D:\C sharp\classe and object\classe and object\bin\Debug\net8.0\classe and object.exe
+D:\C sharp\classe and object\classe and object\bin\Debug\net8.0\classe and object.deps.json
+D:\C sharp\classe and object\classe and object\bin\Debug\net8.0\classe and object.runtimeconfig.json
+D:\C sharp\classe and object\classe and object\bin\Debug\net8.0\classe and object.dll
+D:\C sharp\classe and object\classe and object\bin\Debug\net8.0\classe and object.pdb
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\classe and object.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\classe and object.AssemblyInfoInputs.cache
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\classe and object.AssemblyInfo.cs
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\classe and object.csproj.CoreCompileInputs.cache
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\classe and object.dll
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\refint\classe and object.dll
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\classe and object.pdb
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\classe and object.genruntimeconfig.cache
+D:\C sharp\classe and object\classe and object\obj\Debug\net8.0\ref\classe and object.dll
