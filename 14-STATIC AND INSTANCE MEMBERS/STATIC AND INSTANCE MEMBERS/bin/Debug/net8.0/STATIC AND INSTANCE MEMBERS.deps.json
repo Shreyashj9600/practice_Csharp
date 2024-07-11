@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "STATIC AND INSTANCE MEMBERS/1.0.0": {
+        "runtime": {
+          "STATIC AND INSTANCE MEMBERS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STATIC AND INSTANCE MEMBERS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
