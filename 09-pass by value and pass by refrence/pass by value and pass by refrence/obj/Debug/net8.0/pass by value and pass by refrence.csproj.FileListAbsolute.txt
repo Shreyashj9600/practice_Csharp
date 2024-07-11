@@ -1,0 +1,14 @@
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\bin\Debug\net8.0\pass by value and pass by refrence.exe
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\bin\Debug\net8.0\pass by value and pass by refrence.deps.json
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\bin\Debug\net8.0\pass by value and pass by refrence.runtimeconfig.json
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\bin\Debug\net8.0\pass by value and pass by refrence.dll
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\bin\Debug\net8.0\pass by value and pass by refrence.pdb
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\pass by value and pass by refrence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\pass by value and pass by refrence.AssemblyInfoInputs.cache
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\pass by value and pass by refrence.AssemblyInfo.cs
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\pass by value and pass by refrence.csproj.CoreCompileInputs.cache
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\pass by value and pass by refrence.dll
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\refint\pass by value and pass by refrence.dll
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\pass by value and pass by refrence.pdb
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\pass by value and pass by refrence.genruntimeconfig.cache
+D:\C sharp\pass by value and pass by refrence\pass by value and pass by refrence\obj\Debug\net8.0\ref\pass by value and pass by refrence.dll
