@@ -1,0 +1,14 @@
+D:\C sharp\static constructor\static constructor\bin\Debug\net8.0\static constructor.exe
+D:\C sharp\static constructor\static constructor\bin\Debug\net8.0\static constructor.deps.json
+D:\C sharp\static constructor\static constructor\bin\Debug\net8.0\static constructor.runtimeconfig.json
+D:\C sharp\static constructor\static constructor\bin\Debug\net8.0\static constructor.dll
+D:\C sharp\static constructor\static constructor\bin\Debug\net8.0\static constructor.pdb
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\static constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\static constructor.AssemblyInfoInputs.cache
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\static constructor.AssemblyInfo.cs
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\static constructor.csproj.CoreCompileInputs.cache
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\static constructor.dll
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\refint\static constructor.dll
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\static constructor.pdb
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\static constructor.genruntimeconfig.cache
+D:\C sharp\static constructor\static constructor\obj\Debug\net8.0\ref\static constructor.dll

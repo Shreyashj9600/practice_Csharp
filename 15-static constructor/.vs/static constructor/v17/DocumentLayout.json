@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C sharp\\static constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{928ED264-032A-44E2-8604-9286EAF83100}|static constructor\\static constructor.csproj|d:\\c sharp\\static constructor\\static constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928ED264-032A-44E2-8604-9286EAF83100}|static constructor\\static constructor.csproj|solutionrelative:static constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C sharp\\static constructor\\static constructor\\Program.cs",
+              "RelativeDocumentMoniker": "static constructor\\Program.cs",
+              "ToolTip": "D:\\C sharp\\static constructor\\static constructor\\Program.cs*",
+              "RelativeToolTip": "static constructor\\Program.cs*",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:29:32.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
